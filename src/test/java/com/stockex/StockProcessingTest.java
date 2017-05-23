@@ -18,7 +18,7 @@ public class StockProcessingTest {
 	
 	/*
 	 *  1.
-	 * Incoming Test clients data:
+	 * Incoming test clients data:
 	 * C1 -15  15    0   0   0	
 	 * C2   5   0    0   5   0
 	 * C3  -5   0    0  -5   0
@@ -44,7 +44,7 @@ public class StockProcessingTest {
 	 * ************************
 	 * 
 	 * 3.
-	 * Test clients data ofter running test:
+	 * Test clients data after running test:
 	 * C1  0 0 0 0 0	
 	 * C2  0 0 0 0 0
 	 * C3  0 0 0 0 0
